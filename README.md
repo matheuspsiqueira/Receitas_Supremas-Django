@@ -15,7 +15,12 @@ This project was developed with the following technologies:
 
 # Gallery
 
-
+<img src="fotos/1.png">
+<img src="fotos/2.png">
+<img src="fotos/3.png">
+<img src="fotos/4.png">
+<img src="fotos/5.png">
+<img src="fotos/6.png">
 
 ##
 
@@ -36,3 +41,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 # Galeria
 
+<img src="fotos/1.png">
+<img src="fotos/2.png">
+<img src="fotos/3.png">
+<img src="fotos/4.png">
+<img src="fotos/5.png">
+<img src="fotos/6.png">
