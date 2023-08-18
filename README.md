@@ -1,4 +1,4 @@
-# 💻 Project <img src="https://static.vecteezy.com/ti/vetor-gratis/t2/2641490-bandeira-oficial-dos-eua-gr%C3%A1tis-vetor.jpg" width=30>
+# 💻 Project <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg" width=30>
 
 In this project, I'm developing a recipes website, where any user can create their account and publish their recipes.
 
